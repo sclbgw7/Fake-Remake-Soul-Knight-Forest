@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -49,6 +50,9 @@ TagManager:
     locked: 0
   - name: creature
     uniqueID: 3950651183
+    locked: 0
+  - name: on creature
+    uniqueID: 4176900115
     locked: 0
   - name: top
     uniqueID: 3897682557
